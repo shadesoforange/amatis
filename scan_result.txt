@@ -1,0 +1,16 @@
+GGS Shell Checking System
+===Shell Check List===
+/home/amatisor/public_html//modules/simpletest/tests/upgrade/drupal-7.aggregator.database.php: Suspicious(c99): 65c73eab2dc99e',
+===ClamAv Check List===
+
+----------- SCAN SUMMARY -----------
+Known viruses: 3707572
+Engine version: 0.98.4
+Scanned directories: 574
+Scanned files: 5175
+Infected files: 0
+Data scanned: 121.97 MB
+Data read: 300.01 MB (ratio 0.41:1)
+Time: 23.762 sec (0 m 23 s)
+===Maldet Check List===
+===Image Check List===

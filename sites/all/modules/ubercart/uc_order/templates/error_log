@@ -1,0 +1,5 @@
+[28-Oct-2014 16:50:14 UTC] PHP Fatal error:  Call to undefined function t() in /home/amatisor/public_html/sites/all/modules/ubercart/uc_order/templates/uc-order--admin.tpl.php on line 10
+[30-Oct-2014 17:37:51 UTC] PHP Fatal error:  Call to undefined function t() in /home/amatisor/public_html/sites/all/modules/ubercart/uc_order/templates/uc-order--admin.tpl.php on line 10
+[31-Oct-2014 19:28:35 UTC] PHP Fatal error:  Call to undefined function t() in /home/amatisor/public_html/sites/all/modules/ubercart/uc_order/templates/uc-order--admin.tpl.php on line 10
+[01-Nov-2014 03:26:48 UTC] PHP Fatal error:  Call to undefined function t() in /home/amatisor/public_html/sites/all/modules/ubercart/uc_order/templates/uc-order--admin.tpl.php on line 10
+[07-Nov-2014 14:56:23 UTC] PHP Fatal error:  Call to undefined function t() in /home/amatisor/public_html/sites/all/modules/ubercart/uc_order/templates/uc-order--admin.tpl.php on line 10
