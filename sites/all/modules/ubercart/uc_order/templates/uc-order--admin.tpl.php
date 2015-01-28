@@ -7,27 +7,11 @@
 ?>
 
 <p>
-<b><?php print t('Order number:'); ?></b> <?php print $order_admin_link; ?><br />
-<b><?php print t('Customer:'); ?></b> <?php print $order_first_name; ?> <?php print $order_last_name; ?> - <?php print $order_email; ?><br />
-<br/>
-<b><?php print t('Billing Address:'); ?></b><br />
-                        <?php print $order_billing_address; ?><br />
-                        <br />
-                        <b><?php print t('Phone:'); ?></b><br />
-                        <?php print $order_billing_phone; ?><br />
-                     
-                      <?php if ($shippable): ?>
-                      
-                        <b><?php print t('Shipping Address:'); ?></b><br />
-                        <?php print $order_shipping_address; ?><br />
-                        
-                        <?php endif; ?>
-                        <br />
-                        
-						
-<b><?php print t('Order total:'); ?></b> <?php print $order_total; ?><br />
-<b><?php print t('Shipping method:'); ?></b> <?php print $order_shipping_method; ?>
-
+<?php print t('Order number:'); ?> <?php print $order_admin_link; ?><br />
+<?php print t('Customer:'); ?> <?php print $order_first_name; ?> <?php print $order_last_name; ?> - <?php print $order_email; ?><br />
+<?php print t('Order total:'); ?> <?php print $order_total; ?><br />
+<?php print t('Shipping method:'); ?> <?php print $order_shipping_method; ?>
+</p>
 
 <p>
 <?php print t('Products:'); ?><br />
