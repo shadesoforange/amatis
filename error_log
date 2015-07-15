@@ -1,1 +1,14 @@
-
+[26-May-2015 15:55:39 America/New_York] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 10248 bytes) in /home/amatisor/public_html/modules/system/image.gd.inc on line 232
+[31-May-2015 16:52:09 America/New_York] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 27516000 bytes) in /home/amatisor/public_html/modules/system/image.gd.inc on line 232
+[31-May-2015 16:54:47 America/New_York] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 27516000 bytes) in /home/amatisor/public_html/modules/system/image.gd.inc on line 232
+[31-May-2015 16:57:37 America/New_York] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 27516000 bytes) in /home/amatisor/public_html/modules/system/image.gd.inc on line 232
+[31-May-2015 16:58:53 America/New_York] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 27516000 bytes) in /home/amatisor/public_html/modules/system/image.gd.inc on line 232
+[03-Jun-2015 15:06:26 America/New_York] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 10248 bytes) in /home/amatisor/public_html/modules/system/image.gd.inc on line 232
+[03-Jun-2015 15:06:32 America/New_York] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 10248 bytes) in /home/amatisor/public_html/modules/system/image.gd.inc on line 232
+[03-Jun-2015 15:07:32 America/New_York] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 10248 bytes) in /home/amatisor/public_html/modules/system/image.gd.inc on line 232
+[03-Jun-2015 15:07:46 America/New_York] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 10248 bytes) in /home/amatisor/public_html/modules/system/image.gd.inc on line 232
+[03-Jun-2015 15:19:32 America/New_York] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 10248 bytes) in /home/amatisor/public_html/modules/system/image.gd.inc on line 232
+[18-Jun-2015 14:40:38 America/New_York] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 10248 bytes) in /home/amatisor/public_html/modules/system/image.gd.inc on line 232
+[25-Jun-2015 12:07:37 America/New_York] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 10248 bytes) in /home/amatisor/public_html/modules/system/image.gd.inc on line 232
+[08-Jul-2015 12:08:52 America/New_York] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 2562 bytes) in /home/amatisor/public_html/modules/system/image.gd.inc on line 232
+[14-Jul-2015 10:51:43 America/New_York] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 10248 bytes) in /home/amatisor/public_html/modules/system/image.gd.inc on line 232
