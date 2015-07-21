@@ -92,6 +92,24 @@ q {
 html {
   height: 100.2%;
 }
+.grey {
+  color: #999999;
+}
+.ltgold {
+  color: #f0e9d5;
+}
+.gold {
+  color: #c9ad64;
+}
+.dkgold {
+  color: #9d864a;
+}
+.dkgold2 {
+  color: #826d35;
+}
+.white {
+  color: #ffffff;
+}
 .sans {
   font-family: "Lucida", "Lucida Grande", "Trebuchet MS", Tahoma, Verdana, sans-serif;
 }
@@ -1553,6 +1571,32 @@ body {
 .page-cart #uc-cart-checkout-form #edit-actions #edit-continue.arrow-back {
   background: #c9ad64 url(../img/arrow-white-10-back.png) no-repeat left center;
   padding-left: 22px;
+}
+.view-bios .views-row {
+  margin: 0 10%;
+}
+.view-bios .views-row .views-field-field-bio-image {
+  float: left;
+  margin-right: 30px;
+}
+.view-bios .views-row .views-field-title {
+  font-size: 22px;
+  color: #ffffff;
+  margin-bottom: 4px;
+}
+.view-bios .views-row .views-field-field-job-title {
+  color: #c9ad64;
+  font-style: italic;
+  font-size: 18px;
+  margin-bottom: 12px;
+}
+.view-bios .views-row .views-field-body {
+  font-size: 14px;
+  line-height: 18px;
+}
+.view-bios .views-row .views-field-body p {
+  font-size: 14px;
+  line-height: 18px;
 }
 ul.tabs-primary {
   height: 25px;
