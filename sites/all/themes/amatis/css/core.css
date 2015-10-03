@@ -1192,7 +1192,7 @@ body {
   font-weight: 700;
 }
 .view-products .views_slideshow_cycle_main .views-field-nothing {
-  margin-left: 400px;
+  margin: 0 0 15px 400px;
   font-size: 16px;
   font-weight: 700;
   width: 332px;
@@ -1233,6 +1233,7 @@ body {
 .view-products .views_slideshow_cycle_main .views-field-addtocartlink .form-item {
   float: left;
   width: 50%;
+  margin: 0 0 15px;
 }
 .view-products .views_slideshow_cycle_main .views-field-addtocartlink .form-item label {
   margin-bottom: 3px;
@@ -1243,11 +1244,11 @@ body {
   width: 30%;
   float: left;
 }
-.view-products .views_slideshow_cycle_main .views-field-addtocartlink #edit-actions {
+.view-products .views_slideshow_cycle_main .views-field-addtocartlink .form-actions {
   width: 100%;
   float: left;
 }
-.view-products .views_slideshow_cycle_main .views-field-addtocartlink #edit-actions .node-add-to-cart {
+.view-products .views_slideshow_cycle_main .views-field-addtocartlink .form-actions .node-add-to-cart {
   border-radius: 3px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -1264,18 +1265,18 @@ body {
   background: -webkit-linear-gradient(top, #f0e9d5 0%, #c9ad64 100%);
   font-family: "Lucida", "Lucida Grande", "Trebuchet MS", Tahoma, Verdana, sans-serif;
 }
-.view-products .views_slideshow_cycle_main .views-field-addtocartlink #edit-actions .node-add-to-cart:hover {
+.view-products .views_slideshow_cycle_main .views-field-addtocartlink .form-actions .node-add-to-cart:hover {
   text-decoration: none;
   background: #dfd4b4;
   background: -moz-linear-gradient(top, #dfd4b4 0%, #b19650 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #dfd4b4), color-stop(100%, #b19650));
   background: -webkit-linear-gradient(top, #dfd4b4 0%, #b19650 100%);
 }
-.view-products .views_slideshow_cycle_main .views-field-addtocartlink #edit-actions .node-add-to-cart.arrow {
+.view-products .views_slideshow_cycle_main .views-field-addtocartlink .form-actions .node-add-to-cart.arrow {
   background: #c9ad64 url(../img/arrow-white-10.png) no-repeat right center;
   padding-right: 22px;
 }
-.view-products .views_slideshow_cycle_main .views-field-addtocartlink #edit-actions .node-add-to-cart.arrow-back {
+.view-products .views_slideshow_cycle_main .views-field-addtocartlink .form-actions .node-add-to-cart.arrow-back {
   background: #c9ad64 url(../img/arrow-white-10-back.png) no-repeat left center;
   padding-left: 22px;
 }
@@ -1573,7 +1574,8 @@ body {
   padding-left: 22px;
 }
 .view-bios .views-row {
-  margin: 0 10%;
+  margin: 0 10% 20px;
+  clear: both;
 }
 .view-bios .views-row .views-field-field-bio-image {
   float: left;

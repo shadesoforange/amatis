@@ -104,7 +104,7 @@ body { background: #000 url("../images/bg-amatis.jpg") no-repeat top center; col
 		.views-field-title { .m(0 0 12px 400px); .w(332px);
 			.field-content { color: #fff; .size(20px); .bold; }
 		}
-		.views-field-nothing { .ml(400px); .size(16px); .bold; .w(332px);
+		.views-field-nothing { .m(0 0 15px 400px); .size(16px); .bold; .w(332px);
 			table { .w(100%); }
 			td { .size(16px); .bold; .pr(5px); 
 				&.dealer-price { color: @ltgold; 
@@ -117,11 +117,11 @@ body { background: #000 url("../images/bg-amatis.jpg") no-repeat top center; col
 		}
 		.views-field-field-description { .ml(400px); .w(332px); }
 		.views-field-addtocartlink { .ml(400px); 
-			.form-item { .fl; .w(50%); 
+			.form-item { .fl; .w(50%); .m(0 0 15px);
 				label { .mb(3px); .bold; .em; }
 				&.form-item-qty { .w(30%); .fl; }
 			}
-			#edit-actions { .w(100%); .fl;
+			.form-actions { .w(100%); .fl;
 				.node-add-to-cart { .btn-gold; }
 			}
 		}
@@ -203,7 +203,7 @@ body { background: #000 url("../images/bg-amatis.jpg") no-repeat top center; col
 // Bios View 
 
 .view-bios {
-	.views-row { .m(0 10%); 
+	.views-row { .m(0 10% 20px); .cb;
 		.views-field-field-bio-image { .fl; .mr(30px); }
 		.views-field-title { .size(22px); .white; .mb(4px); }
 		.views-field-field-job-title { .gold; .em; .size(18px); .mb(12px); }
