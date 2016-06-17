@@ -1,0 +1,3 @@
+[29-Mar-2016 21:42:15] PHP Fatal error:  Class 'ctools_export_ui' not found in /home3/amatisfi/public_html/amatis/sites/all/modules/ctools/ctools_access_ruleset/plugins/export_ui/ctools_access_ruleset_ui.class.php on line 3
+[30-Mar-2016 00:47:03] PHP Fatal error:  Class 'ctools_export_ui' not found in /home3/amatisfi/public_html/amatis/sites/all/modules/ctools/ctools_access_ruleset/plugins/export_ui/ctools_access_ruleset_ui.class.php on line 3
+[21-Apr-2016 05:44:49] PHP Fatal error:  Class 'ctools_export_ui' not found in /home3/amatisfi/public_html/amatis/sites/all/modules/ctools/ctools_access_ruleset/plugins/export_ui/ctools_access_ruleset_ui.class.php on line 3

